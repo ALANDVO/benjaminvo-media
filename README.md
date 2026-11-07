@@ -8,4 +8,4 @@ Media is organized into `photos/part-01`, `part-02`, and `part-03`, with at most
 
 ---
 
-Alan Vo · [alanvo.net](https://alanvo.net)
+Alan Vo · [alanvo.net](https://alanvo.net) · [X: @alanvoasi](https://x.com/alanvoasi)
